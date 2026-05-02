@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.venv/
+wandb/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors

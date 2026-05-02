@@ -1,0 +1,17 @@
+accelerate==1.2.1
+datasets==3.1.0
+Fraction==2.2.0
+jsonlines==4.0.0
+numpy==1.26.4
+pandas==2.2.3
+peft==0.13.2
+psutil==6.1.0
+PyYAML==6.0.2
+safetensors==0.4.5
+scikit_learn==1.5.2
+scipy==1.14.1
+sympy==1.13.1
+torch==2.5.1
+tqdm==4.67.0
+transformers==4.47.1
+wandb==0.18.7
